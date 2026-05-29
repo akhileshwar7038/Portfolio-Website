@@ -1,0 +1,229 @@
+
+ Akhileshwar Reddy Songala 
+Sr. Java Fullstack Developer
+Phone: 559-460-7157    Email: akhileshwar.fs@gmail.com
+LinkedIn: https://www.linkedin.com/in/akhil7038                     
+
+ 
+OBJECTIVE
+
+9+ years of experience as a Java Full Stack Developer specializing in building scalable microservices-based applications. Strong expertise in Spring Boot, REST APIs, React, cloud deployment, and distributed systems. Proven ability to design high-performance systems and optimize backend services. 
+
+PROFESSIONAL SUMMARY
+
+6+ years of experience in Java Full Stack Development with expertise in building scalable Microservices-based applications using modern cloud-native architectures.
+Designed and implemented a scalable microservices-based architecture using Spring Boot, enabling independent deployment, better fault isolation, and seamless communication between distributed services across enterprise applications.
+Developed and optimized high-performance RESTful APIs capable of handling more than 1 million requests per day, ensuring low latency, high throughput, secure communication, and reliable transaction processing for large-scale business operations.
+Integrated Apache Kafka to build an event-driven architecture that enabled asynchronous communication, real-time data streaming, improved system scalability, and reliable message processing between microservices.
+Built highly responsive and user-friendly front-end applications using React, delivering dynamic dashboards, reusable UI components, seamless API integration, and enhanced user experience across web platforms.
+Containerized and deployed enterprise applications using Docker and Kubernetes, enabling automated scaling, efficient resource management, and highly available production deployments.
+Developed and maintained microservices for critical banking functionalities including account management, transaction processing, payment handling, and fraud detection with secure and reliable service communication.
+Implemented robust authentication and authorization mechanisms using Spring Security with OAuth2 and JWT tokens to secure APIs, protect sensitive customer data, and enforce role-based access control across applications.
+Designed and developed RESTful APIs for core banking operations such as fund transfers, account statement generation, transaction history retrieval, notification alerts, and customer profile management.
+Integrated Apache Kafka for real-time transaction streaming and asynchronous event processing, improving data consistency, reducing response times, and enabling near real-time analytics and monitoring capabilities.
+Implemented advanced fraud detection functionality using rule-based validation checks, transaction pattern analysis, and anomaly detection techniques to identify suspicious activities and prevent fraudulent transactions.
+Developed interactive and responsive dashboards using Angular for transaction monitoring, reporting, customer account tracking, and administrative management functionalities.
+Utilized PostgreSQL for secure and efficient transactional data storage, database normalization, query optimization, and maintaining high data integrity across applications.
+Implemented fault tolerance and resiliency patterns using Resilience4j circuit breaker mechanisms to improve application stability and prevent cascading failures in distributed systems.
+Secured REST APIs using OAuth2 and JWT-based authentication while implementing comprehensive role-based access control policies to ensure secure access to application resources and sensitive operations.
+Configured centralized monitoring and observability solutions using Prometheus, Grafana, and Elastic Stack to monitor system health, application metrics, and log analysis.
+Deployed and managed cloud-native applications across cloud platforms including Amazon Web Services, Microsoft Azure, and Google Cloud Platform to support scalable and resilient enterprise infrastructure.
+Containerized microservices using Docker and orchestrated deployments through Kubernetes clusters, ensuring efficient workload management, automated scaling, rolling updates, and zero-downtime deployments.
+Implemented end-to-end application logging, performance monitoring, and alerting solutions using Grafana and Prometheus to proactively identify system bottlenecks and improve operational efficiency.
+Enabled centralized and distributed logging using the ELK Stack (Elasticsearch, Logstash, and Kibana) for efficient log aggregation, real-time troubleshooting, root cause analysis, and production issue monitoring.
+Deployed and managed services on AWS infrastructure including EC2, S3, and RDS, ensuring secure cloud hosting, scalable storage solutions, reliable database management, and high application availability.
+Automated CI/CD processes by developing Jenkins pipelines for continuous integration, automated testing, and seamless deployment workflows, significantly reducing manual deployment efforts and improving release efficiency.
+Ensured high availability and system reliability by implementing load balancing, auto-scaling strategies, failover mechanisms, and optimized infrastructure configurations for mission-critical enterprise applications.
+
+
+TECHNICAL SKILLS
+
+Backend Technologies
+Java, Spring Boot, Spring MVC, Spring Security, Hibernate, JPA 
+Frontend Technologies
+React.js, React Router, Next Js , TypeScript, JavaScript (ES6+), HTML5, CSS3 ,
+Languages
+C, Java, JavaScript, TypeScript
+Databases
+PostgreSQL, MySQL, Oracle, SQL, PLSQL
+MicroServices
+REST APIs, API Gateway, Service Discovery (Eureka), Feign Client 
+Messaging
+Kafka, RabbitMQ 
+DevOps
+Docker, Kubernetes, Jenkins, Git , GitHub
+Cloud 
+AWS (EC2, S3, RDS, Cognito) 
+Tools
+Maven, Gradle, IntelliJ 
+Methodologies
+Agile and Waterfall
+
+EDUCATION
+Bachelor’s in Mechanical engineering from Vellore Institute of Science and Technology 
+Master’s in Management Information Systems from Lamar University
+
+WORK EXPERIENCE
+
+Lenovo, Raleigh, NC                                         Sep 2024 – Till Date
+Sr. Java Fullstack Developer
+Responsibilities:
+
+Designed and implemented scalable microservices architecture using Spring Boot to improve modularity, maintainability, independent service deployment, and overall application performance in distributed enterprise systems.
+Developed high-performance RESTful APIs capable of handling more than 1 million requests per day with optimized response time, secure communication, and efficient data processing mechanisms.
+Integrated Apache Kafka for implementing event-driven architecture to support asynchronous communication, real-time event processing, and reliable message delivery between microservices.
+Built responsive and interactive user interface components using React to enhance user experience, improve application usability, and support dynamic front-end functionalities.
+Deployed and managed containerized applications using Docker and Kubernetes for automated scaling, efficient resource utilization, and high-availability deployments.
+Developed and maintained microservices for account management, transaction processing, and fraud detection functionalities to support secure and reliable financial operations.
+Implemented robust authentication and authorization mechanisms using Spring Security with OAuth2 and JWT tokens to secure APIs and protect sensitive application resources.
+Developed responsive and dynamic frontend applications using React 18, TypeScript, JavaScript ES6+, HTML5, and CSS3.
+Built reusable React components using React Hooks, functional components, props, state management, and component lifecycle patterns.
+Developed interactive user dashboards using Angular 16/17, TypeScript, RxJS, Angular Material, and REST API integration.
+Implemented frontend routing using React Router and Angular Router to support seamless navigation across application modules.
+Integrated React and Angular applications with backend RESTful APIs for account management, order processing, transaction tracking, and reporting modules.
+Used Redux and Context API to manage application state, reduce prop drilling, and improve maintainability of React applications.
+Implemented RxJS Observables, Subjects, and operators in Angular to handle asynchronous API calls and real-time data updates.
+Built responsive UI screens for customer dashboards, transaction history, payment workflows, and administrative modules.
+Developed reusable UI components such as data tables, forms, modals, dropdowns, cards, search filters, and pagination controls.
+Integrated Apache Kafka for real-time transaction streaming and asynchronous event handling to improve system scalability, reliability, and data consistency across services.
+Implemented fraud detection functionality using rule-based validation checks and transaction analysis techniques to identify suspicious activities and prevent fraudulent transactions.
+Developed responsive dashboards and transaction tracking modules using Angular to provide real-time monitoring and enhanced user interaction capabilities.
+Utilized PostgreSQL for secure transactional data storage, optimized query execution, and maintaining data consistency across applications.
+Implemented circuit breaker patterns using Resilience4j to improve fault tolerance, prevent cascading failures, and enhance application resiliency.
+Secured REST APIs using OAuth2 and JWT-based authentication while implementing role-based access control mechanisms to ensure secure access management across applications.
+Monitored application performance, system health, and operational metrics using Prometheus, Grafana, and Elastic Stack for proactive issue resolution and performance optimization.
+Deployed and managed applications across cloud environments including Amazon Web Services, Microsoft Azure, and Google Cloud Platform to support scalable and reliable infrastructure solutions.
+Containerized enterprise applications using Docker and orchestrated deployments on Kubernetes clusters to enable efficient application management, automated scaling, and seamless deployment processes.
+Implemented centralized logging, monitoring, and alerting solutions using Grafana and Prometheus to track application performance and quickly identify production issues.
+Enabled distributed logging using the ELK Stack for real-time log aggregation, monitoring, troubleshooting, and root cause analysis across microservices environments.
+Deployed and maintained services on AWS infrastructure including EC2, S3, and RDS to support scalable hosting, secure storage, and reliable database management solutions.
+Automated build, testing, and deployment workflows using Jenkins CI/CD pipelines to improve deployment efficiency, reduce manual intervention, and accelerate software delivery cycles.
+Ensured high availability and reliability of applications by implementing load balancing strategies, failover mechanisms, and optimized infrastructure configurations for uninterrupted service delivery.
+
+
+Environment: Core Java, Java 8/11/17, J2EE, Spring Framework, Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate, Microservices Architecture, RESTful Web Services, SOAP, GraphQL, Apache Kafka, RabbitMQ, Apache Camel, Netflix OSS (Eureka, Zuul, Hystrix), Resilience4j, API Gateway, OAuth 2.0, JWT Authentication, Keycloak, Redis Cache, Hazelcast, Elasticsearch, Logstash, Kibana (ELK Stack), Apache Solr, Apache Tomcat, Jetty, Nginx, Docker, Kubernetes, Helm, CI/CD Pipelines, Jenkins, GitHub Actions, GitLab CI, Maven, Gradle.
+ 
+Gen Digital (Norton Lifelock), Tempe, AZ        Aug 2023 – Sep 2024
+Sr.  Java Fullstack Developer
+Responsibilities:
+
+Designed and developed scalable microservices-based applications using Spring Boot and Spring Cloud to support distributed system architecture, independent deployments, and efficient service management.
+Built and maintained RESTful APIs for order processing, user management, and product catalog services to support secure and seamless business operations across applications.
+Implemented API Gateway and centralized request routing using Spring Cloud Gateway to manage client requests, improve security, and simplify communication between microservices.
+Developed backend services using Spring Boot and Hibernate (JPA) for efficient database operations, business logic implementation, and seamless data persistence management.
+Designed database schemas and optimized SQL queries using MySQL / PostgreSQL to improve data organization, query performance, and application efficiency.
+Implemented JWT-based authentication and authorization using Spring Security to secure APIs and provide protected access to application resources.
+Developed responsive and interactive frontend applications using React / Angular with seamless REST API integration for improved user experience.
+Used Material UI, Angular Material, Bootstrap, and Tailwind CSS to build consistent, responsive, and accessible user interfaces.
+Optimized frontend performance using lazy loading, code splitting, memoization, reusable services, and efficient component rendering techniques.
+Implemented secure frontend authentication flows using JWT tokens, OAuth2, route guards, protected routes, and role-based UI rendering.
+Developed Angular services and React API utility layers to standardize backend communication and error handling.
+Built reusable frontend layouts including headers, side navigation menus, breadcrumbs, dashboards, and role-based navigation components.
+Implemented client-side error handling, validation messages, loading indicators, and notification alerts to improve user interaction.
+Integrated Apache Kafka / RabbitMQ for asynchronous communication between microservices to support reliable event processing and scalable message handling.
+Implemented service discovery mechanisms using Eureka Server / Consul to enable dynamic service registration and smooth communication between distributed microservices.
+Used Feign Client / RestTemplate for secure and efficient inter-service communication between backend microservices within the distributed architecture.
+Applied Circuit Breaker patterns using Resilience4j / Hystrix to improve fault tolerance, handle service failures gracefully, and maintain application stability.
+Containerized applications using Docker and managed deployments with Kubernetes for scalable and highly available application environments.
+Built and maintained CI/CD pipelines using Jenkins / GitHub Actions for automated build, testing, and deployment processes to improve release efficiency and reduce manual effort.
+Used Git for version control and managed branching strategies to support collaborative development, code tracking, and efficient release management.
+Implemented caching mechanisms using Redis / EhCache to improve application performance, reduce database load, and enhance API response times.
+Performed unit testing using JUnit and Mockito along with integration testing for REST APIs to ensure application reliability, code quality, and stable functionality.
+Secured APIs using OAuth2 / JWT tokens and implemented role-based access control to provide secure authentication and authorization across the application.
+Monitored application performance and system health using Prometheus & Grafana / Elastic Stack for effective monitoring, logging, and troubleshooting.
+Deployed applications across cloud platforms including Amazon Web Services / Microsoft Azure / Google Cloud Platform to support scalable, secure, and reliable cloud infrastructure.
+Optimized overall application performance by tuning JVM configurations, improving database queries, and reducing API response times for better system efficiency.
+Handled exception management and implemented application logging using SLF4J & Logback to support effective debugging, monitoring, and issue tracking.
+Participated actively in Agile/Scrum ceremonies including sprint planning, daily stand-ups, backlog grooming, and retrospectives to support efficient project delivery.
+Collaborated with cross-functional teams including QA, DevOps, and UI developers to ensure smooth integration, testing, deployment, and successful project execution.
+Troubleshot production issues and performed detailed root cause analysis (RCA) to identify problems quickly and implement effective long-term solutions.
+Reduced API response time by 30% through effective caching implementation and database query optimization techniques to improve application performance.
+Improved system scalability and maintainability by implementing microservices architecture and containerization strategies across distributed applications.
+Increased deployment efficiency and reduced manual intervention by automating CI/CD pipelines for continuous integration and continuous delivery processes.
+
+Environment: HTML5, CSS3, JavaScript (ES6+), TypeScript, React.js, Angular, Vue.js, Redux, Context API, Bootstrap, Tailwind CSS, Material UI, Webpack, Babel. Payment Gateways (Stripe, PayPal, Razorpay), Shopping Cart, Checkout Systems, Order Management Systems (OMS), Product Information Management (PIM), Inventory Management, Recommendation Engines, Search & Filtering Systems. MySQL, PostgreSQL, Oracle, MongoDB, Cassandra, DynamoDB, Firebase Realtime DB.
+
+Columbia Bank, Cincinnati, OH                                                                                                                                            Oct 2022 – Jul 2023
+Java Fullstack Developer
+Responsibilities:
+
+Developed and maintained Java-based banking applications using Spring Boot, Spring MVC, Hibernate, and RESTful Web Services.
+Designed and implemented microservices for account management, customer profile management, transaction processing, fund transfers, and payment services.
+Developed RESTful APIs for balance inquiry, transaction history, account statements, beneficiary management, and payment confirmation workflows.
+Implemented secure authentication and authorization using Spring Security, OAuth2, JWT, and role-based access control for banking users and internal staff.
+Built responsive frontend screens using React.js / Angular for customer account dashboards, transaction tracking, payment history, and administrative modules.
+Worked with TypeScript interfaces, models, enums, and reusable types to improve code quality and maintainability.
+Integrated frontend applications with Kafka-driven backend services through REST APIs to display near real-time transaction and event data.
+Developed responsive web pages compatible across Chrome, Edge, Firefox, and mobile/tablet browsers.
+Collaborated with backend developers, QA teams, DevOps engineers, and business analysts to deliver full-stack application features.
+Participated in Agile/Scrum ceremonies including sprint planning, daily stand-ups, backlog grooming, code reviews, and retrospectives.
+Integrated Kafka / RabbitMQ for asynchronous transaction notifications, payment events, and real-time communication between microservices.
+Used PostgreSQL / MySQL / Oracle for storing customer, account, transaction, and audit-related data with optimized SQL queries and database indexing.
+Implemented transaction validation, exception handling, and audit logging to support secure and reliable financial operations.
+Developed caching mechanisms using Redis to improve API performance for frequently accessed account and customer information.
+Containerized microservices using Docker and supported deployment on Kubernetes clusters for scalable application delivery.
+Implemented centralized logging and monitoring using Grafana, Prometheus, and ELK Stack to track application health and production issues.
+Performed API testing using Postman and supported unit testing with JUnit and Mockito to ensure application reliability.
+Participated in Agile/Scrum ceremonies including sprint planning, daily stand-ups, backlog refinement, and retrospectives.
+Collaborated with QA, DevOps, UI, and business teams to analyze requirements, resolve defects, and support production releases.
+
+Environment: Java, Java 8/11, Spring Boot, Spring MVC, Spring Security, Hibernate, JPA, RESTful Web Services, Microservices, React.js, Angular, JavaScript, TypeScript, HTML5, CSS3, Kafka, RabbitMQ, PostgreSQL, MySQL, Oracle, Redis, Docker, Kubernetes, Jenkins, Git, Maven, JUnit, Mockito, Postman, Grafana, Prometheus, ELK Stack, Agile.
+
+
+
+Kubical Technosoft, Hyderabad, India.                                                                                                  Apr 2020 – May 2022
+Java Fullstack Developer
+Responsibilities:
+Worked on requirement analysis, providing estimates, design, development, unit testing, implementation and production support based on project phase.
+Designed and developed Java-based web applications using Spring Boot, Spring MVC, Hibernate, and RESTful Web Services.
+Developed and maintained backend microservices to support business workflows, user management, reporting, and data processing functionalities.
+Built REST APIs for frontend integration and ensured secure, reliable, and efficient communication between application layers.
+Developed responsive user interfaces using React.js, JavaScript, HTML5, CSS3, and Bootstrap.
+Implemented database operations using MySQL and PostgreSQL, including writing SQL queries, stored procedures, joins, and performance-tuned queries.
+Integrated Spring Security and JWT-based authentication to secure application endpoints and manage role-based access control.
+Used Hibernate/JPA for object-relational mapping and efficient persistence layer development.
+Implemented exception handling, validation, and logging using Log4j/SLF4J to improve application stability and debugging.
+Participated in Agile/Scrum ceremonies including sprint planning, daily stand-ups, code reviews, and retrospectives.
+Used Git and GitHub for version control, branching, merging, and collaborative development.
+Performed unit testing using JUnit and Mockito to ensure code quality and application reliability.
+Assisted in deploying applications using Docker and supported CI/CD pipeline activities with Jenkins.Environment: Java, Java 8, Spring Boot, Spring MVC, Spring Security, Hibernate, JPA, RESTful Web Services, React.js, JavaScript, HTML5, CSS3, Bootstrap, MySQL, PostgreSQL, Maven, Git, GitHub, Jenkins, Docker, JUnit, Mockito, Log4j, Agile.
+
+Environment: Java, Java 8, Spring Boot, Spring MVC, Spring Security, Hibernate, JPA, RESTful Web Services, React.js, JavaScript, HTML5, CSS3, Bootstrap, MySQL, PostgreSQL, Maven, Git, GitHub, Jenkins, Docker, JUnit, Mockito, Log4j, Agile.
+
+Tech Mahindra, Bengaluru, India.                                                                                               Aug 2018 – Feb 2020
+Java Fullstack Developer
+Responsibilities:
+Worked closely with business analysts and performed detailed analysis of business and technical requirements. 
+Designed the solution by customizing various standard objects of Salesforce.com (SFDC).
+Developed enterprise web applications using Java, Spring MVC, Spring Boot, JSP, Servlets, and Hibernate.
+Designed and implemented RESTful APIs to support customer management, order processing, reporting, and internal business modules.
+Worked on frontend development using JSP, HTML, CSS, JavaScript, jQuery, and Bootstrap to build interactive web pages.
+Implemented backend business logic using Core Java, collections, exception handling, and object-oriented programming concepts.
+Integrated application modules with relational databases using JDBC, Hibernate, and SQL queries.
+Developed and optimized database queries, joins, stored procedures, and indexes using Oracle and MySQL.
+Implemented validation, error handling, and logging mechanisms to improve application reliability and maintainability.
+Used Maven for project build management and dependency configuration.
+Participated in requirement analysis, design discussions, development, testing, and production support activities.
+Worked with QA teams to resolve defects, perform bug fixes, and support application testing cycles.
+Used Git/SVN for source code management and maintained proper branching and version control practices.
+Supported application deployments on Apache Tomcat and assisted in troubleshooting production issues.
+
+Environment: Java, J2EE, Spring MVC, Spring Boot, Hibernate, JSP, Servlets, JDBC, RESTful Web Services, HTML, CSS, JavaScript, jQuery, Bootstrap, Oracle, MySQL, Maven, Git, SVN, Apache Tomcat, Log4j, JUnit, Agile.
+
+Skillsoft, Hyderabad, India                            Jul 2016 – May 2018        
+Java Developer
+Responsibilities:
+Used the lightweight container of the Spring MVC Framework to provide architectural flexibility for the inversion of controller (IOC).
+Involved in the complete Software Development Life Cycle (SDLC) phases such as Requirement Analysis, Design, and Implementation of the project.
+Proficient in J2EE and experience building web applications using J2EE technologies.
+Demonstrated experience with J2EE frameworks such as Spring, Hibernate, or Struts.
+The front end of the project is designed using the MVC architecture with the Struts and Tiles frameworks.
+Involved in Configuring tiles-def.xml, web.xml, and struts-config.xml according to the strut framework.
+Used LOG4J for error logging at the development box and used ANT for building the deployable EAR/WAR components.
+Used Web Sphere Application Server for deploying various components of the application.
+Created DB2 SQL Procedures, Functions & Stored Procedures, Nested Tables, Cursors, DB2 Packages, Reports & SQL Functions for Reports. 
+Worked with VSS Version control to create a virtual library of computer files.
+
+Environment: Java 1.4, J2EE, JSP2.0, Servlets2.4, EJB2.0, Struts1.2, Spring 2.0.3, JDBC3.0, Design patterns, Html, XML, CSS, Log4j, Ant, Web services, RAD6.0.
+
+
